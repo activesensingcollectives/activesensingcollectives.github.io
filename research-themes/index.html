@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Research themes | Active Sensing Collectives</title>
+<link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://activesensingcollectives.com/research-themes/">
+<!--[if lt IE 9]>
+            <script src="../assets/js/html5shiv.min.js"></script>
+            <script src="../assets/js/respond.min.js"></script>
+        <![endif]--><meta name="author" content="Thejasvi Beleyur">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+<!-- Menubar -->
+
+<nav class="navbar navbar-info header-panel shadow-z-3" role="navigation"><div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-3">
+            <h1 class="title-blog">
+                <a href="https://activesensingcollectives.com/">
+                        <span id="blog-title">Active Sensing Collectives</span>
+                    </a>
+            </h1>
+          </div>
+          <div class="col-xs-9">
+            <a id="hamburger" class="btn btn-raised" href="javascript:void(0);" onclick="menuToggle();">☰</a>
+          </div>
+        </div>
+      </div>
+<!-- /.container-fluid -->
+</nav><div class="container-fluid main" id="content" role="main">
+        <div class="row">
+            <nav class="col-xs-12 col-sm-3 menu"><ul>
+<li class="withripple"><a href="../index.html">About</a></li>
+                <li class="withripple active"><a href=".">Research projects</a></li>
+                <li class="withripple"><a href="../members/">Members</a></li>
+                <li class="withripple"><a href="../publications/">Publications</a></li>
+                <li class="withripple"><a href="../packages-and-code/">Scientific software &amp; code</a></li>
+                <li class="withripple"><a href="../openings/">Openings</a></li>
+                <li class="withripple"><a href="../funding/">Funding</a></li>
+
+                    
+                </ul>
+<ul></ul></nav><div class="posts-material col-xs-12 col-sm-9">
+                <div class="col-xs-12 col-md-11 content-material">
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Research themes</a></h1>
+<hr></header><div class="e-content entry-content" itemprop="articleBody text">
+    <h3>Active-sensing collectives in the field: a high resolution, multi-sensor approach</h3>
+<p>Echolocating bats manage to navigate in complete darkness using only sound. A lot of our understanding of echolocation comes from investigations of individual bats studied under field and lab settings. Individual echolocation itself is no easy task, one call generates multiple overlapping echoes, and the bat must decide how to filter and process this stream of incoming echoes. </p>
+<p></p>
+<center>
+<img src="../orlova_chuka_ushichka.jpg" style="width:40%"><img src="../multi-sensor.png" style="width:50%"><p class="caption"><small>Left: The multi-sensor Ushichka dataset with a multi-channel microphone array, thermal cameras and LiDAR scans of the cave the bats flew in Right: A-C panels showing snippets of recorded data along with bat activity in D,E. </small></p>
+<p></p>
+</center>
+<p><br>
+The fact remains, echolocating bats are capable of <em>even more</em>. Bats are one of the most gregarious animals in the world, and are capable of flying in dense swarms in complete darkness only relying on echolocation. However, studying these dense swarms is not trivial - and here we use the latest techniques and algorithms to 1) reconstruct individual sensory inputs 2) rationalise individual sensorimotor decisions at high spatio-temporal resolution. </p>
+<h3>The swarm robotics of active-sensing agents</h3>
+<p>Echolocation is a pretty neat sensory modality. Being a 'single-sensor' modality, echolocation is also thus a data and computationally effective way to navigate your surroundings. This makes echolocation/SONAR a nice candidate for robotics, and specifically swarm robotics.</p>
+<p>We use swarm robotics to understand active-sensing collectives from two perspectives 1) to explain and rationalise biologically seen behaviours 2) to experiment and discover new strategies to handle navigation in complex echolocation scenes. With our collaborators <a href=".">Andreagiovanni Reina</a> and <a href=".">Heiko Hamann</a> we have been developing the 'Ro-BAT' active-sensing swarm robotics platform. </p>
+<p></p>
+<center>
+<img src="../RoBATV0-early.jpeg" style="width:35%"><img src="../RoBATV0-later.jpg" style="width:40%"><p class="caption"><small>Left: An early version of the V0 Ro-BAT with a widely separated mic array Right: A later version of the V0 Ro-BAT with a tight microphone array for better direction-of-arrival localisation </small></p>
+<p></p>
+</center>
+<p><br></p>
+<h3>Methods development and collaboration</h3>
+<p>The data we collect comes along with its own quirks, meaning typical analysis tools may not really fit, or exist. A lot of available algorithms and methods are conceived with human or industrial use-cases in mind, and assume their properties as input (human speech, clean geometric shapes, etc.). We of course often end up studying the very oppostie of these human/industrial settings by going out in the night (next to trees, ponds, or in caves), and record data opportunistically. 
+We approach the challenge of our unconventional datasets by either building the tools ourselves, or collaborating to develop and test new methods with our data.</p>
+<h4>Algorithms for multi-channel, multi-source localisation</h4>
+<p>When multiple echolocators come together, a problem arises not only for the echolocators themselves, but also to those studying them (us!). How to extract audio data with overlapping sounds is an open problem that is still being looked into. Especially with multi-bat audio, there's sound directionality and reverberation.  In collaboration with <a href="https://portal.research.lu.se/en/persons/kalle-%C3%A5str%C3%B6m">Kalle Åström (Uni. Lund)</a> and team we are looking into algorithms that work to localise sources in multi-channel audio with overlapping sounds, also while trying to test the efficacy of microphone array self-localisation in the field. </p>
+<p></p>
+<center>
+    <img src="../tracking_output.png" style="width:30%"><img src="../video_synced10channel_first15sec_1529543496_channel_num_4.png" width="50%"><p class="caption"><small>Left: Example of acoustic localisation points from reverberant audio. Right: A simple call detection workflow to perform localisation.</small></p>
+<p></p>
+</center>
+<h4>Multi-sensor alignment and workflows</h4>
+<p>Exploiting the availability of new sensor types, an important focus of the lab is to create a holistic understanding of how active-sensing agents manage in groups. However, the kinds of algorithms and sensors used in 'common' human/industrial contexts of course do not always work. In collaboration with <a href="https://www.cvia.uni-konstanz.de/members/prof-dr-bastian-goldluecke/">Bastian Goldlücke (Uni. Konstanz)</a> we have been developing a workflow to align thermal camera scenes with LiDAR scans of cave scenes that do not have the typical sharp edges and contrasts that typical datasets have.</p>
+<p></p>
+<center>
+    <img src="../dmcp_snippet.png" width="40%"><br><img src="../candidate_camera.png" width="40%"><p class="caption"> <small> Top: The stages of the DMCP algorithm starting with thermal+LiDAR scenes to user-inputs Bottom: The final inferred positions  for the three thermal cameras in the cave.</small></p>
+<p></p>
+</center>
+    </div>
+    
+</article>
+</div>
+            </div>
+        </div>
+        <button class="btn btn-fab btn-raised btn-material-green btn-footer" data-toggle="modal" data-target="#footer-dialog">
+            <i class="mdi-communication-message"></i>
+        </button>
+        <div id="footer-dialog" class="modal fade" tabindex="-1">
+          <div class="modal-dialog">
+            <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title">Active Sensing Collectives contact </h4>
+				<div>
+                    
+
+Dr. Thejasvi R. Beleyur
+<br>
+Email: thejasvi.beleyur[at]  uni-konstanz.de OR ab.mpg.de
+
+
+                </div>
+              </div>
+              <div class="modal-body">
+                    Contents © 2025         <a href="mailto:thejasvi.beleyur@uni-konstanz.de">Thejasvi Beleyur</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         , website design based on the material-theme
+                    
+              </div>
+              <div class="modal-footer">
+                <button class="btn btn-primary" data-dismiss="modal">Ok</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+</div>
+
+
+            <script src="../assets/js/all-nocdn.js"></script><script>
+
+            $(document).ready(function() {
+                // This command is used to initialize some elements and make them work properly
+                $.material.init();
+            });
+
+            $(window).on("resize", function() {
+                if($(window).width() > 767) {
+                  $("html, body").height($(window).height());
+                  $(".main, .menu").height($(window).height() - $(".header-panel").outerHeight() - 76 );
+                  $(".posts-material").height($(window).height());
+                } else {
+                  $("html, body").css('height', '');
+                  $(".main, .menu").css('height', '');
+                  $(".posts-material").css('height', '');
+                }
+            }).trigger("resize");
+
+            function menuToggle() {
+                $("nav.menu, ul").toggleClass('responsive', '');
+            }
+        </script><!-- fancy dates --><script>
+    moment.locale("en");
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates --><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>
