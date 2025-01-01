@@ -22,6 +22,7 @@ date: 2024-08-29 18:03:22 UTC+02:00
 
 * Beleyur, T., Bellur, D. U., & Somanathan, H. (2015). Long-term behavioural consistency in prey capture but not in web maintenance in a social spider. Behavioral Ecology and Sociobiology, 69(6), 1019-1028. [paper-link](https://thejasvibr.github.io/Beleyur_et_al_2015.pdf)
 
+* Beleyur, T., Abdul Kareem, V. K., Shaji, A., & Prasad, K. (2013). A mathematical basis for plant patterning derived from physico-chemical phenomena. Bioessays, 35(4), 366-376. [paper-link](../Beleyur_etal_phylltoaxis_review.pdf)
 
 
 
