@@ -20,6 +20,8 @@ The candidate is expected to have experience/background in at least two among th
 
 A driving license and field work experience is beneficial.
 
+Candidates will be hired in the E13 scheme according to the full-time equivalent of the University of Konstanz.
+
 <!-- As a PhD candidate in the lab, you will be based either in the Biology graduate school or the IMPRS QBEE programs at the University of Konstanz, and be part of a vibrant community of researchers working across various fields.-->
 
 ### *Relevant literature*
@@ -41,6 +43,9 @@ The candidate is expected to have experience/background in at least two among th
 * computational science/robotics (previous experience in Python is helpful)
 	
 This is an interdisciplinary project involving close collaboration with [Dr. Andreagiovanni Reina](https://www.giovannireina.com/) & [Prof. Heiko Hamann](http://embodied-computation.org/) at the Department of Computer and Information Science in the Uni. Konstanz. 
+
+
+Candidates will be hired in the E13 scheme according to the full-time equivalent of the University of Konstanz.
 
 <!-- As a PhD candidate in the lab, you will be based either in the Biology graduate school or the IMPRS QBEE programs at the University of Konstanz, and be part of a vibrant community of researchers working across various fields.-->
 ### Relevant literature 
