@@ -10,9 +10,9 @@
 ## PhD position: Characterising biological active-sensing swarms in the field 
 What is actually happening inside a swarm of active-sensing agents? Echolocating bats show all kinds of collective movements from linear emergence to fly-like swarms. How are they able to manage despite what we expect to be a complex auditory scene? What is actually happening in a swarm of echolocating bats?
 
-This project consists of building a next-generation multi-sensor setup consisting of microphone arrays, acoustic & thermal cameras, as well as LiDAR scans of active-sensing swarms. Aside from building the multi-sensor setup the candidate will also be involved in the development and analysis of this exciting multi-sensor dataset to reveal individual sensory umwelts and sensorimotor decisions in groups. The project will consist of first assembling individual commercially available sensors into a usable system. The system will then be deployed in the field to capture bat collective behaviours.
+This project consists of building a next-generation multi-sensor setup consisting of microphone arrays, acoustic & thermal cameras, as well as LiDAR scans of active-sensing swarms. Aside from building the multi-sensor setup the candidate will also be involved in the development and analysis of this exciting multi-sensor dataset to reveal individual sensory umwelts and sensorimotor decisions in groups.
 
-The candidate is expected to have experience/background in at least two among the list of fields, along with a willingness to learn:
+The candidate is expected to have a Masters degree and relevant experience/background in at least two among the list of fields, along with a willingness to learn:
 
 * Sensory biology/animal behaviour (previous experience with any kind of animal tracking in audio/video is helpful)	
 * Acoustics/physics/engineering 	
@@ -20,9 +20,7 @@ The candidate is expected to have experience/background in at least two among th
 
 A driving license and field work experience is beneficial.
 
-Candidates will be hired in the E13 scheme according to the full-time equivalent of the University of Konstanz.
-
-<!-- As a PhD candidate in the lab, you will be based either in the Biology graduate school or the IMPRS QBEE programs at the University of Konstanz, and be part of a vibrant community of researchers working across various fields.-->
+As a PhD candidate in the lab, you will be based either in the [IMPRS QBEE](https://imprs-qbee.mpg.de/) program at the and registered as a student at the University of Konstanz and be part of an active doctoral-student network. Moreover, being placed in the Centre for the Advanced Study of Collective Behaviour allows you to be part of the vibrant multi-disciplinary ecosystem of researchers from departments spread across psychology all the way to physics. 
 
 ### *Relevant literature*
 
@@ -44,10 +42,8 @@ The candidate is expected to have experience/background in at least two among th
 	
 This is an interdisciplinary project involving close collaboration with [Dr. Andreagiovanni Reina](https://www.giovannireina.com/) & [Prof. Heiko Hamann](http://embodied-computation.org/) at the Department of Computer and Information Science in the Uni. Konstanz. 
 
+Candidates will be hired in the TVL E13 scheme according to the full-time equivalent of the University of Konstanz.
 
-Candidates will be hired in the E13 scheme according to the full-time equivalent of the University of Konstanz.
-
-<!-- As a PhD candidate in the lab, you will be based either in the Biology graduate school or the IMPRS QBEE programs at the University of Konstanz, and be part of a vibrant community of researchers working across various fields.-->
 ### Relevant literature 
 
 * Computational model motivating the ideas & themes behind the swarm robotics experiments: [Beleyur & Goerlitz 2019 PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.1821722116)
