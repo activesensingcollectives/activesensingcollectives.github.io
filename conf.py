@@ -144,10 +144,10 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     ('/index.html','About'),
     ('/research-themes/','Research projects'), 
+    ('/openings/', 'Openings'),
     ('/members/','Members'),
     ('/publications/', 'Publications'),
     ('/packages-and-code/','Scientific software & code'),
-    ('/openings/', 'Openings'),    
     ('/funding/','Funding'),
     ('/impressum/','Impressum')
     ),

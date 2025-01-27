@@ -20,3 +20,7 @@ To check all available commands::
     nikola help
 
 
+TODO:
+-----
+* Add all team members in the collaborators section
+* Add Aditya Moger as an incoming Masters student
