@@ -54,5 +54,7 @@ None of this work happens in a vacuum. Here is the scientific community around o
 * [Prof. Iain Couzin](https://www.ab.mpg.de/person/98158) (Uni. Konstanz/MPI Animal Behavior)
 
 ### Bio-acoustics
-* [Henrik Brumm](https://www.bi.mpg.de/brumm) (MPI-Biological Intelligence, Seewiesen)
+* Animal Ecology and Urban Communication group (Max-Planck Institute for Biological Intelligence, Seewiesen)
+	* [Henrik Brumm](https://www.bi.mpg.de/brumm) 
+	* Léna de Framond
 * [Holger R. Goerlitz](https://www.holger-goerlitz.de/) (MPI-Biological Intelligence, Seewiesen)
