@@ -5,7 +5,7 @@ date: 2024-08-29 23:37:56 UTC+02:00
 type: text
 ---
 
-## Active-sensing collectives in the field: a high resolution, multi-sensor approach
+## Active-sensing collectives in the field: a high resolution, multi-disciplinary approach
 Echolocating bats manage to navigate in complete darkness using only sound. A lot of our understanding of echolocation comes from investigations of individual bats studied under field and lab settings. Individual echolocation itself is no easy task, one call generates multiple overlapping echoes, and the bat must decide how to filter and process this stream of incoming echoes. 
 
 <center>
@@ -14,7 +14,21 @@ Echolocating bats manage to navigate in complete darkness using only sound. A lo
 </center>
 
 <br/>
-The fact remains, echolocating bats are capable of *even more*. Bats are one of the most gregarious animals in the world, and are capable of flying in dense swarms in complete darkness only relying on echolocation. However, studying these dense swarms is not trivial - and here we use the latest techniques and algorithms to 1) reconstruct individual sensory inputs 2) rationalise individual sensorimotor decisions at high spatio-temporal resolution. 
+The fact remains, echolocating bats are capable of *even more*. Bats are one of the most gregarious animals in the world, and are capable of flying in dense swarms in complete darkness only relying on echolocation. However, studying these dense swarms is not trivial - and here we use the latest sensors, techniques and algorithms to 1) reconstruct individual sensory inputs 2) rationalise individual sensorimotor decisions at high spatio-temporal resolution. 
+
+To achieve the goals of high-resolution sensory reconstruction and indiviudal decision making we engage in an inter-disciplinary process that consists of 1) building novel field-friendly multi-sensor rigs to capture a holistic picture of active-sensing swarms 2) modelling to reconstruct individual sensory inputs and explain motor outputs and 3) the development of new computational methods to localise sources in audio with overlapping sounds, testing models of sound radiation. 
+
+<center>
+<img src="../sensory_reconstruction_eg.PNG" style="width:50%"/>
+<p class="caption"><small>Schematic of <em>in-situ</em> sensory reconstruction of a focal bat (extreme right) with a few 
+neighbours. Knowing the locations of all bats in the cave we can calculate when the calls of the focal 
+bat will reach other bats, and when the echoes from the emitted calls will arrive, and how loud they 
+will. These calculations can be iterated over all individuals in a swarm, and we can thus recreate the 
+holistic, complex 'auditory scene' that active-sensing agents in collectives experience. Image modified 
+from originals by Stefan Greif</small></p>
+</center>
+
+<br/>
 
 ## The swarm robotics of active-sensing agents
 Echolocation is a pretty neat sensory modality. Being a 'single-sensor' modality, echolocation is also thus a data and computationally effective way to navigate your surroundings. This makes echolocation/SONAR a nice candidate for robotics, and specifically swarm robotics.
@@ -52,3 +66,9 @@ Exploiting the availability of new sensor types, an important focus of the lab i
 	<p class="caption"> <small> Top: The stages of the DMCP algorithm starting with thermal+LiDAR scenes to user-inputs Bottom: The final inferred positions  for the three thermal cameras in the cave.</small></p>
 
 </center>
+
+
+### Build, and share: scientific software development 
+TLDR: Do it once, and try to package it well.
+
+It is a pity that so many (computational) methods are lost in time because it wasn't originally written keeping other users in mind. Here we try to combat this culture of 'forgetting' by striving to share our implementations with the scientific community using time-tested approaches from the software engineering industry (e.g. unit-testing, convention-based docs, package based sharing). For more see the [software & code](/packages-and-code/) page.

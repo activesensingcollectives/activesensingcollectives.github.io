@@ -50,7 +50,7 @@
                 <div class="col-xs-12 col-md-11 content-material">
 <article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Research themes</a></h1>
 <hr></header><div class="e-content entry-content" itemprop="articleBody text">
-    <h3>Active-sensing collectives in the field: a high resolution, multi-sensor approach</h3>
+    <h3>Active-sensing collectives in the field: a high resolution, multi-disciplinary approach</h3>
 <p>Echolocating bats manage to navigate in complete darkness using only sound. A lot of our understanding of echolocation comes from investigations of individual bats studied under field and lab settings. Individual echolocation itself is no easy task, one call generates multiple overlapping echoes, and the bat must decide how to filter and process this stream of incoming echoes. </p>
 <p></p>
 <center>
@@ -58,7 +58,19 @@
 <p></p>
 </center>
 <p><br>
-The fact remains, echolocating bats are capable of <em>even more</em>. Bats are one of the most gregarious animals in the world, and are capable of flying in dense swarms in complete darkness only relying on echolocation. However, studying these dense swarms is not trivial - and here we use the latest techniques and algorithms to 1) reconstruct individual sensory inputs 2) rationalise individual sensorimotor decisions at high spatio-temporal resolution. </p>
+The fact remains, echolocating bats are capable of <em>even more</em>. Bats are one of the most gregarious animals in the world, and are capable of flying in dense swarms in complete darkness only relying on echolocation. However, studying these dense swarms is not trivial - and here we use the latest sensors, techniques and algorithms to 1) reconstruct individual sensory inputs 2) rationalise individual sensorimotor decisions at high spatio-temporal resolution. </p>
+<p>To achieve the goals of high-resolution sensory reconstruction and indiviudal decision making we engage in an inter-disciplinary process that consists of 1) building novel field-friendly multi-sensor rigs to capture a holistic picture of active-sensing swarms 2) modelling to reconstruct individual sensory inputs and explain motor outputs and 3) the development of new computational methods to localise sources in audio with overlapping sounds, testing models of sound radiation. </p>
+<p></p>
+<center>
+<img src="../sensory_reconstruction_eg.PNG" style="width:50%"><p class="caption"><small>Schematic of <em>in-situ</em> sensory reconstruction of a focal bat (extreme right) with a few 
+neighbours. Knowing the locations of all bats in the cave we can calculate when the calls of the focal 
+bat will reach other bats, and when the echoes from the emitted calls will arrive, and how loud they 
+will. These calculations can be iterated over all individuals in a swarm, and we can thus recreate the 
+holistic, complex 'auditory scene' that active-sensing agents in collectives experience. Image modified 
+from originals by Stefan Greif</small></p>
+<p></p>
+</center>
+<p><br></p>
 <h3>The swarm robotics of active-sensing agents</h3>
 <p>Echolocation is a pretty neat sensory modality. Being a 'single-sensor' modality, echolocation is also thus a data and computationally effective way to navigate your surroundings. This makes echolocation/SONAR a nice candidate for robotics, and specifically swarm robotics.</p>
 <p>We use swarm robotics to understand active-sensing collectives from two perspectives 1) to explain and rationalise biologically seen behaviours 2) to experiment and discover new strategies to handle navigation in complex echolocation scenes. With our collaborators <a href=".">Andreagiovanni Reina</a> and <a href=".">Heiko Hamann</a> we have been developing the 'Ro-BAT' active-sensing swarm robotics platform. </p>
@@ -85,6 +97,9 @@ We approach the challenge of our unconventional datasets by either building the 
     <img src="../dmcp_snippet.png" width="40%"><br><img src="../candidate_camera.png" width="40%"><p class="caption"> <small> Top: The stages of the DMCP algorithm starting with thermal+LiDAR scenes to user-inputs Bottom: The final inferred positions  for the three thermal cameras in the cave.</small></p>
 <p></p>
 </center>
+<h4>Build, and share: scientific software development</h4>
+<p>TLDR: Do it once, and try to package it well.</p>
+<p>It is a pity that so many (computational) methods are lost in time because it wasn't originally written keeping other users in mind. Here we try to combat this culture of 'forgetting' by striving to share our implementations with the scientific community using time-tested approaches from the software engineering industry (e.g. unit-testing, convention-based docs, package based sharing). For more see the <a href="../packages-and-code/">software &amp; code</a> page.</p>
     </div>
     
 </article>
