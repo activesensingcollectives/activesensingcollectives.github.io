@@ -17,15 +17,17 @@ Alberto Doimo, Research Assistant
 <br/>
 Development of the Ro-BAT active-sensing robotics platform.
 
+
+### Masters students
+* Gabriele Baroli (2024-ongoing):  Masters thesis  (Music & Acoustic Engineering, Politecnico Milano) 2024-25. Building the active-sensing V2 Ro-BAT.
+* Aditya Moger (starting mid-2025) : Masters thesis (Integrated BS-MS, IISER Pune). Modelling of echolocating bat groups. 
+
+
 ### PhD candidates
 We are looking for PhD candidates - see [openings here](/openings/)
 
 ### Postdocs 
 We are looking for postdocs - see [openings here](/openings/)
-
-### Masters students
-* Gabriele Baroli (2024-ongoing):  Masters thesis  (Music & Acoustic Engineering, Politecnico Milano) 2024-25. Building the active-sensing V2 Ro-BAT.
-* Aditya Moger (starting mid-2025) : Masters thesis (Integrated BS-MS, IISER Pune). Modelling of echolocating bat groups. 
 
 ### Alumni 
 * Alberto Doimo  (2024):  Masters thesis in Music & Acoustic Engineering, Politecnico Milano) . Building the  passive sensing V1 Ro-BAT.
