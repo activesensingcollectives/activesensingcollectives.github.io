@@ -140,7 +140,7 @@
 'render_posts:cache\\pages\\publications.html', (352768, 457)
 'render_pages:output\\projects\\index.html', (456704, 5797)
 'render_pages:output\\scientific-software\\index.html', (607232, 5770)
-'render_pages:output\\members\\index.html', (462848, 5795)
+'render_pages:output\\members\\index.html', (462848, 5796)
 'render_sources:output\\members\\index.rst', (365568, 242)
 'render_sources:output\\projects\\index.rst', (366080, 244)
 'render_posts:cache\\pages\\contact.html', (366592, 353)
