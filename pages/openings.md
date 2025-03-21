@@ -32,6 +32,8 @@ The official application portal will be shared soon. If you are interested in th
 * The DMCP algorithm to align thermal and LiDAR scenes. [Jandeleit et *al.* 2024 CV4Animals](../Jandeleit_et_al_2024_CV4Animals_CVPR-workshop.pdf) 
 * Automatic microphone array self-positioning. [Batstone et *al.* 2019 ICASSP](https://thejasvibr.github.io/publications/Batstone_et_al_2019_ICASSP_IEEEXPLORE.pdf)
 
+Apply through the online portal [here](https://stellen.uni-konstanz.de/jobposting/b553cd9fbeec7695f3561e58c0cafbb64e58dc870) by 25/5/2025. Please send any queries to Thejasvi (thejasvi.beleyur@uni-konstanz.de).
+
 ## Masters/bachelors student internships 
 If you think the ideas, methods or themes of the lab's work is exciting please reach out with specific mention of the things you may be interested in pursuing and a little bit about your background. 
 
