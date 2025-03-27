@@ -131,7 +131,7 @@
 'render_posts:cache\\pages\\quickstart.html', (188416, 365)
 'render_sources:output\\index.rst', (188928, 238)
 'render_posts:cache\\pages\\index.html', (189440, 429)
-'render_pages:output\\index.html', (623616, 7225)
+'render_pages:output\\index.html', (623616, 7226)
 'copy_assets:output\\assets\\css\\lanyon.css', (279040, 290)
 'copy_assets:output\\assets\\css\\poole.css', (327168, 287)
 'render_pages:output\\contact\\index.html', (418304, 5711)
