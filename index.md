@@ -22,11 +22,14 @@ Echolocating bats are one of the most gregarious animals in the world, forming g
 The lab combines a multi-disciplinary thought process that combines rigorous modelling, in-field observations, and experiments (not necessarily in that order!).  While data is 'cheap to collect', finding the right tools and methods to analyse the often extremely unique datasets is not as cheap, or common. Another focus of our group is  to develop computational methods where needed, with the final goal being long-term community use. For more information on the research of the group, check out [this page](/research-themes/). 
 
 ## Who are we?
-We are an interdisciplinary research group working at the interface of sensory biology, robotics and collective behaviour. We are based at the [Centre for the Advanced Study of Collective Behaviour](https://www.exc.uni-konstanz.de/collective-behaviour/) at the University of Konstanz. See [Members](/members/) for the latest ensemble of people and their projects.
+We are an interdisciplinary research group working at the interface of sensory biology, robotics and collective behaviour. We are based at the [Centre for the Advanced Study of Collective Behaviour](https://www.exc.uni-konstanz.de/collective-behaviour/) at the University of Konstanz. See [Members](/members/) for the latest ensemble of people and their projects. 
+
+We are looking to grow - see [openings](/openings/).
 
 
 ## Rolling Updates
 
+* 21 March 2025 : PhD position characterising echolocating groups in the field is out. [Apply here](/openings/), deadline is May 25 2025!
 * 1st March 2025 : The 'official' start date for the Active Sensing Collectives lab.
 
 * 28th August 2024 : The Active Sensing Collectives lab funded by the Carl-Zeiss Stiftung as part of the CZS Nexus program for the proposal titled *Swarms in censored realities: how biological and technological collectives move in the dark* ([link](https://www.carl-zeiss-stiftung.de/themen-projekte/uebersicht-projekte/detail/swarms-in-censored-realities-how-biological-and-technological-collectives-move-in-the-dark))
