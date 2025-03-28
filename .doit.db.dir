@@ -78,7 +78,7 @@
 'copy_assets:output\\assets\\css\\rst.css', (110592, 441)
 'copy_assets:output\\assets\\js\\gallery.js', (111104, 447)
 'render_taxonomies:output\\categories\\python\\index.html', (729088, 2789)
-'sitemap:output\\sitemap.xml', (393216, 6581)
+'sitemap:output\\sitemap.xml', (393216, 6579)
 'render_sources:output\\social_buttons\\index.rst', (119808, 257)
 'render_posts:cache\\pages\\manual.html', (120320, 815)
 'copy_assets:output\\assets\\js\\fancydates.js', (121344, 451)

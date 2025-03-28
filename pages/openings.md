@@ -23,7 +23,7 @@ An EU-compatible driving license and field work experience is beneficial.
 
 As a PhD candidate in the lab, you will be based in the [IMPRS QBEE](https://imprs-qbee.mpg.de/) program and registered as a student at the University of Konstanz and be part of an active doctoral-student network. Moreover, being placed in the [Centre for the Advanced Study of Collective Behaviour](https://www.exc.uni-konstanz.de/collective-behaviour/) allows you to be part of the vibrant multi-disciplinary ecosystem of researchers from departments spread across psychology all the way to physics. 
 
-If you are not sure about your profile, or have any other queries please send any queries to Thejasvi (thejasvi.beleyur@uni-konstanz.de). Apply through [the online portal here](https://stellen.uni-konstanz.de/jobposting/b553cd9fbeec7695f3561e58c0cafbb64e58dc870) by 25/5/2025. The PhD position is a TV-L E13 75% job. More on the German TV-L collective-agreement system [here](https://lohntastik.de/od-et/collective-agreements/TV-L).
+If you are not sure about your profile, or have any other queries please send any queries to Thejasvi (thejasvi.beleyur@uni-konstanz.de). Apply through [the online portal here](https://stellen.uni-konstanz.de/jobposting/b553cd9fbeec7695f3561e58c0cafbb64e58dc870) by 25/5/2025. The PhD position is a TV-L E13 75% job. For more on the German TV-L collective-agreement system see [here](https://lohntastik.de/od-et/collective-agreements/TV-L).
 
 
 ### *Relevant literature*
