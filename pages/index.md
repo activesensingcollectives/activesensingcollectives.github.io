@@ -29,7 +29,8 @@ We are looking to grow - see [openings](/openings/).
 
 ## Rolling Updates
 
-* 21 March 2025 : PhD position characterising echolocating groups in the field is out. [Apply here](/openings/), deadline is May 25 2025!
+* 21st March 2025 : We are looking to fill a PhD position characterising echolocating groups in the field is out. [Apply here](/openings/), deadline is May 25 2025!
+
 * 1st March 2025 : The 'official' start date for the Active Sensing Collectives lab.
 
 * 28th August 2024 : The Active Sensing Collectives lab funded by the Carl-Zeiss Stiftung as part of the CZS Nexus program for the proposal titled *Swarms in censored realities: how biological and technological collectives move in the dark* ([link](https://www.carl-zeiss-stiftung.de/themen-projekte/uebersicht-projekte/detail/swarms-in-censored-realities-how-biological-and-technological-collectives-move-in-the-dark))
