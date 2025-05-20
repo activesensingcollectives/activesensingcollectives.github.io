@@ -149,6 +149,7 @@ NAVIGATION_LINKS = {
     ('/publications/', 'Publications'),
     ('/packages-and-code/','Scientific software & code'),
     ('/funding/','Funding'),
+    ('/technical-resources/','Technical/Know-how'),
     ('/impressum/','Impressum')
     ),
 }
