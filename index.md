@@ -29,6 +29,10 @@ We are looking to grow - see [openings](/openings/).
 
 ## Rolling Updates
 
+* 2nd June 2025 : We welcome Aditya to the ASC lab! Aditya will be doing his Masters thesis with us and studying echolocating groups and the consequences of various sensori-motor strategies using computational modelling. 
+
+* 28th May 2025 : Farewell and all the best with writing up the thesis Gabriele! Gabriele gave his farewell talk today at the Scy-phy seminar series on the active-sensing Ro-BAT platform he developed over the course of his Masters thesis in the lab. 
+
 * 21st March 2025 : We are looking to fill a PhD position characterising echolocating groups in the field is out. [Apply here](/openings/), deadline is May 25 2025!
 
 * 1st March 2025 : The 'official' start date for the Active Sensing Collectives lab.
