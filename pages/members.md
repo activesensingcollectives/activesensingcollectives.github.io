@@ -15,12 +15,11 @@ Thejasvi Beleyur, Group Leader, [homepage](https://thejasvibr.github.io/index.ht
 <img src="../alberto_doimo_2.jpg" width="11%">
 Alberto Doimo, Research Assistant
 <br/>
-Development of the Ro-BAT active-sensing robotics platform.
+Development of the Ro-BAT swarm robotics platform.
 
 
 ### Masters students
-* Gabriele Baroli (2024-ongoing):  Masters thesis  (Music & Acoustic Engineering, Politecnico Milano) 2024-25. Building the active-sensing V2 Ro-BAT.
-* Aditya Moger (starting mid-2025) : Masters thesis (Integrated BS-MS, IISER Pune). Modelling of echolocating bat groups. 
+* Aditya Moger: Masters thesis (Integrated BS-MS, IISER Pune). Computational modelling of echolocating bat groups. 
 
 
 ### PhD candidates
@@ -30,6 +29,7 @@ We are looking for PhD candidates - see [openings here](/openings/)
 We are looking for postdocs - see [openings here](/openings/)
 
 ### Alumni 
+* Gabriele Baroli (2025):  Masters thesis  (Music & Acoustic Engineering, Politecnico Milano) 2024-25. Building the active-sensing V2 Ro-BAT.
 * Alberto Doimo  (2024):  Masters thesis in Music & Acoustic Engineering, Politecnico Milano) . Building the  passive sensing V1 Ro-BAT.
 * Julian Jandeleit (2022-23): Bachelors thesis in Computer Science, Uni. Konstanz. Multi-sensor alignment of featureless thermal and LiDAR cave scenes. 
 * Giray Tandoğan (2021): Masters thesis in Computer & Information Science, Uni. Konstanz. Multi-animal, multi-camera tracking and correspondence matching.
