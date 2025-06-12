@@ -19,7 +19,10 @@ Development of the Ro-BAT swarm robotics platform.
 
 
 ### Masters students
-* Aditya Moger: Masters thesis (Integrated BS-MS, IISER Pune). Computational modelling of echolocating bat groups. 
+<img src="../1000060786.jpg" width="11%">
+Aditya Moger: Masters thesis (Integrated BS-MS, IISER Pune)
+<br/>
+Computational modelling of echolocating bat groups. 
 
 
 ### PhD candidates
