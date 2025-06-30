@@ -150,6 +150,7 @@ NAVIGATION_LINKS = {
     ('/packages-and-code/','Scientific software & code'),
     ('/funding/','Funding'),
     ('/technical-resources/','Technical/Know-how'),
+    ('/admin-resources/','Admin and forms'),
     ('/impressum/','Impressum')
     ),
 }
