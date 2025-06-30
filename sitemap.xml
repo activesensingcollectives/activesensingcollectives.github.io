@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://activesensingcollectives.com/</loc>
-  <lastmod>2025-06-12T07:37:00Z</lastmod>
+  <lastmod>2025-06-30T10:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://activesensingcollectives.com/2012/</loc>
@@ -18,8 +18,12 @@
   <lastmod>2024-12-31T07:28:00Z</lastmod>
  </url>
  <url>
+  <loc>https://activesensingcollectives.com/admin-resources/</loc>
+  <lastmod>2025-06-30T10:09:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://activesensingcollectives.com/archive.html</loc>
-  <lastmod>2025-05-20T08:32:00Z</lastmod>
+  <lastmod>2025-06-30T10:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://activesensingcollectives.com/blog/</loc>
@@ -111,7 +115,7 @@
  </url>
  <url>
   <loc>https://activesensingcollectives.com/listings/hello.py.html</loc>
-  <lastmod>2025-05-20T08:32:00Z</lastmod>
+  <lastmod>2025-06-30T10:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://activesensingcollectives.com/members/</loc>
