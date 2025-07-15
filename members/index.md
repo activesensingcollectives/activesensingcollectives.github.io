@@ -15,7 +15,8 @@ Thejasvi Beleyur, Group Leader, [homepage](https://thejasvibr.github.io/index.ht
 <img src="../alberto_doimo_2.jpg" width="11%">
 Alberto Doimo, Research Assistant
 <br/>
-Development of the Ro-BAT swarm robotics platform.
+Development of the Ro-BAT swarm robotics platform. 
+alberto.doimo [at] uni-konstanz.de
 
 
 ### Masters students
@@ -23,6 +24,7 @@ Development of the Ro-BAT swarm robotics platform.
 Aditya Moger: Masters thesis (Integrated BS-MS, IISER Pune)
 <br/>
 Computational modelling of echolocating bat groups. 
+aditya.moger [at] uni-konstanz.de
 
 
 ### PhD candidates
