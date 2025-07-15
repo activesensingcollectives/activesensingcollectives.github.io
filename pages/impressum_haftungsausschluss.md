@@ -38,7 +38,6 @@ date: 2025-01-02 06:45:05 UTC+02:00
 
 	
 	<div style="float:left;width:60px;">Telefon:</div>
-	<div style="float:left;">Tel.: +49-7531-XX-XXXX</div>
          <div style="clear:both;"></div>
          
 	<div style="float:left;width:60px;">E-Mail:</div>
