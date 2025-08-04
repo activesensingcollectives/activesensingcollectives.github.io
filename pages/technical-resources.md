@@ -18,3 +18,5 @@ This is a constantly updated list of some of our lab's equipment-specific and wo
 * [Lab-grade calibration mic sensitivity measurements](https://github.com/activesensingcollectives/device-related/tree/main/gras_microphone_calibration_certificates)
 
 * Broad how-to notes to use the Trimble C5 total station ([link1 ](https://cloud.uni-konstanz.de/index.php/s/9gAPYfQyS7simN6), [link2 needs Uni account](https://cloud.uni-konstanz.de/index.php/f/194926655)
+
+* User-manual and some notes on using the Trion P1 scanner [link](https://cloud.uni-konstanz.de/index.php/f/202268590)
