@@ -3,6 +3,7 @@ title: Publications & preprints
 slug: publications
 date: 2024-08-29 18:03:22 UTC+02:00
 ---
+* de Framond, L., Sharp, S. P., Duclos, K., Beleyur, T., & Brumm, H. (2025). Stream noise induces song plasticity and a shift to visual signals in a riverine songbird. Current Biology. [paper-link](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00958-3)
 
 * Jandeleit, J., Beleyur, T., & Goldluecke, B. (2024). A target-free approach to estimate thermal camera pose in LiDAR scenes of feature-deficient environments. (CV4Animals 2024 workshop, [here](../Jandeleit_et_al_2024_CV4Animals_CVPR-workshop.pdf), also on [bioRxiv]( https://doi.org/10.1101/2023.10.09.561532 )
 
