@@ -11,13 +11,18 @@
 <img src="../IMG_20240813_133527_cropped.jpg" width="11%">
 Thejasvi Beleyur, Group Leader, [homepage](https://thejasvibr.github.io/index.html)
 
+## Doctoral candidates
+
+Frithjof Küster, PhD candidate
+<br/>
+Multi-sensor characterisation of echolocating bat swarms
+
 ### Staff
 <img src="../alberto_doimo_2.jpg" width="11%">
 Alberto Doimo, Research Assistant
 <br/>
 Development of the Ro-BAT swarm robotics platform. 
 alberto.doimo [at] uni-konstanz.de
-
 
 ### Masters students
 <img src="../1000060786.jpg" width="11%">
@@ -26,12 +31,8 @@ Aditya Moger: Masters thesis (Integrated BS-MS, IISER Pune)
 Computational modelling of echolocating bat groups. 
 aditya.moger [at] uni-konstanz.de
 
-
-### PhD candidates
-We are looking for PhD candidates - see [openings here](/openings/)
-
-### Postdocs 
-We are looking for postdocs - see [openings here](/openings/)
+### Do you want to join the lab?
+We are looking for PhD & postdoc candidates - see [openings here](/openings/)
 
 ### Alumni 
 * Gabriele Baroli (2025):  Masters thesis  (Music & Acoustic Engineering, Politecnico Milano) 2024-25. Building the active-sensing V2 Ro-BAT.
@@ -55,7 +56,7 @@ None of this work happens in a vacuum. Here is the scientific community around o
 	* Jens Gulin
 
 ### Computer vision
-* Computer vision & image analysis group, [Prof. Bastian Goldluecke](https://www.cvia.uni-konstanz.de/) (Uni. Konstanz)
+* Computer vision & image analysis group, [Prof. Bastian Goldlücke](https://www.cvia.uni-konstanz.de/) (Uni. Konstanz)
 
 ### Animal collective behaviour
 * [Prof. Iain Couzin](https://www.ab.mpg.de/person/98158) (Uni. Konstanz/MPI Animal Behavior)
