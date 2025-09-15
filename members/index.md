@@ -26,7 +26,7 @@ alberto.doimo [at] uni-konstanz.de
 
 ### Masters students
 <img src="../1000060786.jpg" width="11%">
-Aditya Moger: Masters thesis (Integrated BS-MS, IISER Pune)
+Aditya Moger: Masters thesis (Integrated BS-MS, IISER Pune), [homepage](https://mogeraditya.github.io/) 
 <br/>
 Computational modelling of echolocating bat groups. 
 aditya.moger [at] uni-konstanz.de
