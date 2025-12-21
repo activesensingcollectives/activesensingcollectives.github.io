@@ -7,6 +7,9 @@ type: text
 
 This is a constantly updated list of some of our lab's equipment-specific and workflow based know-how and code. 
 
+## Lab Network-attach storage
+Info on using + accessing the lab's network attached storage [here](https://github.com/activesensingcollectives/device-related/blob/main/AcSeCoLab_NAS/AcSeCoLabNAS.txt)
+
 ### Methods
 
 * [Microphone calibration through the substitution method](https://github.com/activesensingcollectives/calibrate-mic)
