@@ -33,12 +33,8 @@ date: 2025-01-02 06:45:05 UTC+02:00
 	
 <h2>Kontakt:</h2>
 
-
 <p>
 
-	
-	<div style="float:left;width:60px;">Telefon:</div>
-         <div style="clear:both;"></div>
          
 	<div style="float:left;width:60px;">E-Mail:</div>
 	<div style="float:left;">thejasvi.beleyur@uni-konstanz.de</div>

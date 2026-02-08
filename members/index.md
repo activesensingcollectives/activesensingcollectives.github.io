@@ -11,18 +11,23 @@
 <img src="../IMG_20240813_133527_cropped.jpg" width="11%">
 Thejasvi Beleyur, Group Leader, [homepage](https://thejasvibr.github.io/index.html)
 
+Research insterests: sensory modelling, inferring behavioural heuristics, acoustics
+thejasvi.beleyur [at] uni-konstanz.de
+
 ## Doctoral candidates
 
+
+<img src="../alberto_doimo_2.jpg" width="11%">
+Alberto Doimo, PhD candidate
+<br/>
+Swarm robotics investigation of acoustic collectives. 
+alberto.doimo [at] uni-konstanz.de
+
+<img src="../kuester.jpeg" width="11%">
 Frithjof Küster, PhD candidate
 <br/>
-Multi-sensor characterisation of echolocating bat swarms
-
-### Staff
-<img src="../alberto_doimo_2.jpg" width="11%">
-Alberto Doimo, Research Assistant
-<br/>
-Development of the Ro-BAT swarm robotics platform. 
-alberto.doimo [at] uni-konstanz.de
+Multi-sensor characterisation of echolocating bat swarms.
+frithjof.kuester [at] uni-konstanz.de
 
 ### Masters students
 <img src="../1000060786.jpg" width="11%">
