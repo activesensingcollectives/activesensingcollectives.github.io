@@ -16,7 +16,6 @@ thejasvi.beleyur [at] uni-konstanz.de
 
 ## Doctoral candidates
 
-
 <img src="../alberto_doimo_2.jpg" width="11%">
 Alberto Doimo, PhD candidate
 <br/>
