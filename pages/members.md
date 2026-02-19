@@ -35,6 +35,10 @@ Aditya Moger: Masters thesis (Integrated BS-MS, IISER Pune), [homepage](https://
 Computational modelling of echolocating bat groups. 
 aditya.moger [at] uni-konstanz.de
 
+Riccardo Cora: Masters thesis (Music & Acoustic Engineering, Politecnico Milano)
+<br/>
+Swarm robotics of echolocating RoBAT agents
+
 ### Do you want to join the lab?
 We are looking for PhD & postdoc candidates - see [openings here](/openings/)
 
