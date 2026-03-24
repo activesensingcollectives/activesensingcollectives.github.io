@@ -15,6 +15,10 @@ Info on using + accessing the lab's network attached storage [here](https://gith
 * [Microphone calibration through the substitution method](https://github.com/activesensingcollectives/calibrate-mic)
 * [Designing a mic calibration experiment based on the room dimensions](https://github.com/activesensingcollectives/how-to/blob/master/designing_calibration_experiments.pdf)
 
+### Robot platform specific
+
+* [Instructions to setup and build a SonoRo](https://sonoro-swarm.readthedocs.io/en/latest/index.html)
+
 ### Device-specific
 
 * [Fireface 802 gain and Vclip measurements](https://github.com/activesensingcollectives/device-related/blob/main/gainknob_fireface802/estimating_Vclip_and_gain.pdf)

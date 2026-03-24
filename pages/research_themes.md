@@ -30,15 +30,17 @@ from originals by Stefan Greif</small></p>
 
 <br/>
 
-## The swarm robotics of active-sensing agents
-Echolocation is a pretty neat sensory modality. Being a 'single-sensor' modality, echolocation is also thus a data and computationally effective way to navigate your surroundings. This makes echolocation/SONAR a nice candidate for robotics, and specifically swarm robotics.
+## Acoustically mediated collective behaviour - a swarm robotics approach
+Sound is quite underappreciated Sound generally travels far, does not rely on external conditions like light or fog, and also diffracts around obstacles. Many animals in collectives use sound to maintain cohesion and communicate - raising interesting questions on how they do this, and what this approach could bring from a technology perspective. 
+
+We developed the [SonoRo](/technical-resources/) swarm-robotics platform (See [Publications](/publications/)). Each SonoRo is equipped with a speaker that emits a beacon-signal, and a microphone array that allows direction-of-arrival calculation. The SonoRo is a cool system to study passive acoustic swarms. Another platform we have been developing is the active-sensing, echolocating 'RoBAT' platform. This platform is of course much more directly linked to our core interests of emulating and studying the mechanisms that allow lots of echolocators to show collective behaviour. 
 
 We use swarm robotics to understand active-sensing collectives from two perspectives 1) to explain and rationalise biologically seen behaviours 2) to experiment and discover new strategies to handle navigation in complex echolocation scenes. With our collaborators [Andreagiovanni Reina]() and [Heiko Hamann]() we have been developing the 'Ro-BAT' active-sensing swarm robotics platform. 
 
 
 <center>
-<img src="../RoBATV0-early.jpeg" style="width:35%"/> <img src="../RoBATV0-later.jpg" style="width:40%"/>
-<p class="caption"><small>Left: An early version of the V0 Ro-BAT with a widely separated mic array Right: A later version of the V0 Ro-BAT with a tight microphone array for better direction-of-arrival localisation </small></p>
+<img src="../PXL_20260309_154523226.MP.jpg" style="width:35%"/> <img src="../ro-bat_active.png" style="width:25%"/>
+<p class="caption"><small>Left: Our passive-sensing SonoRo swarm. Right: The echolocating Ro-BAT platform. Picture credits: Alberto Doimo</small></p>
 </center>
 
 <br/>
