@@ -11,7 +11,7 @@
 Active sensing agents like echolocating animals and robots/drones using RADAR/SONAR are well understood as individual agents. Broadly speaking, active-sensing agents emit 'probes' of energy into the environment, and perceive how this energy is modulated by objects in the environment. However, when active-sensing agents come together in groups, things aren't so simple anymore. With each agent emitting probes all the time, there's potential for jamming (emitted probes overlapping relevant signals), and even just confusion (whose probe is whose?). 
 <br/>
 <center>
-	<img src="../small_optim_orlova_chuka.gif" style="width:25%"/><img src="../sound_types_schematic.png" style="width:20%"/><img src="../sonoro_ezgif-8d6efa9fbdfbc2fa.gif" style="width:25%"/>
+	<img src="../small_optim_orlova_chuka.gif" style="width:25%"/><img src="../sound_types_schematic.png" style="width:20%"/><img src="../sonoro_ezgif-8d6efa9fbdfbc2fa.gif" style="width:25	%"/>
 
 </center>
 <br/>
