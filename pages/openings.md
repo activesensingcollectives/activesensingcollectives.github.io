@@ -22,7 +22,7 @@ Project related links
 
 Start date: as soon as possible, with an expected 4-6 months of commitment. 
 
-Funding: The student will be hired as a HiWi at the University of Konstanz, and will gain student status on registering at the University - providing a series of benefits and subsidies for life in Konstanz.  
+Funding: The student will be hired as a HiWi at the University of Konstanz, and will gain student status on registering at the University. Student-status provides a series of benefits and subsidies for life at the University and Konstanz. 
 
 Application: Please reach out to Thejasvi via email. Include your CV and in the email briefly state why this project interests you, along with any relevant skill-sets you bring. 
 

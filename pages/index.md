@@ -11,7 +11,7 @@
 Active sensing agents like echolocating animals and robots/drones using RADAR/SONAR are well understood as individual agents. Broadly speaking, active-sensing agents emit 'probes' of energy into the environment, and perceive how this energy is modulated by objects in the environment. However, when active-sensing agents come together in groups, things aren't so simple anymore. With each agent emitting probes all the time, there's potential for jamming (emitted probes overlapping relevant signals), and even just confusion (whose probe is whose?). 
 <br/>
 <center>
-	<img src="../small_optim_orlova_chuka.gif" style="width:25%"/><img src="../sound_types_schematic.png" style="width:20%"/><img src="../sonoro_ezgif-8d6efa9fbdfbc2fa.gif" style="width:25	%"/>
+	<img src="../small_optim_orlova_chuka.gif" style="width:25%"/><img src="../sound_types_schematic.png" style="width:20%"/><img src="../sonoro_ezgif-8d6efa9fbdfbc2fa.gif" style="width:25%"/>
 
 </center>
 <br/>
@@ -24,10 +24,10 @@ The lab combines a multi-disciplinary thought process that combines rigorous mod
 ## Who are we?
 We are an interdisciplinary research group working at the interface of sensory biology, robotics and collective behaviour. We are based at the [Centre for the Advanced Study of Collective Behaviour](https://www.exc.uni-konstanz.de/collective-behaviour/) at the University of Konstanz. See [Members](/members/) for the latest ensemble of people and their projects. 
 
-We are looking to grow - see [openings](/openings/).
-
 
 ## Rolling Updates
+* 24 Mar 2026 : Master thesis opening! - Check out our [openings](/openings/).
+
 * 16 Feb 2026 : Welcome Riccardo to the ASC lab. Riccardo will be doing his Masters thesis with us and finally doing swarm robotics of with our echolocating 'RoBAT' robot platform!
 
 * 30 Jan 2026 : The AcSeCo lab's swarm robotics work will be featured at [ANTS 2026](https://ants2026.org/) - the international conference for swarm intelligence.
