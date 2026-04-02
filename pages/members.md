@@ -30,7 +30,7 @@ frithjof.kuester [at] uni-konstanz.de
 
 ### Masters students
 <img src="../1000060786.jpg" width="11%">
-Aditya Moger: Masters thesis (Integrated BS-MS, IISER Pune), [homepage](https://mogeraditya.github.io/) 
+
 <br/>
 Computational modelling of echolocating bat groups. 
 aditya.moger [at] uni-konstanz.de
@@ -40,9 +40,10 @@ Riccardo Cora: Masters thesis (Music & Acoustic Engineering, Politecnico Milano)
 Swarm robotics of echolocating RoBAT agents
 
 ### Do you want to join the lab?
-We are looking for PhD & postdoc candidates - see [openings here](/openings/)
+We are looking for Masters thesis candidates - see [openings here](/openings/)
 
 ### Alumni 
+* Aditya Moger (2026): Masters thesis (Integrated BS-MS, IISER Pune). Modelling active sensing collectives 
 * Gabriele Baroli (2025):  Masters thesis  (Music & Acoustic Engineering, Politecnico Milano) 2024-25. Building the active-sensing V2 Ro-BAT.
 * Alberto Doimo  (2024):  Masters thesis in Music & Acoustic Engineering, Politecnico Milano) . Building the  passive sensing V1 Ro-BAT.
 * Julian Jandeleit (2022-23): Bachelors thesis in Computer Science, Uni. Konstanz. Multi-sensor alignment of featureless thermal and LiDAR cave scenes. 
