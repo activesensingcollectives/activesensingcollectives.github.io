@@ -78,7 +78,7 @@
 'copy_assets:output\\assets\\css\\rst.css', (110592, 441)
 'copy_assets:output\\assets\\js\\gallery.js', (111104, 447)
 'render_taxonomies:output\\categories\\python\\index.html', (729088, 2789)
-'sitemap:output\\sitemap.xml', (822272, 6872)
+'sitemap:output\\sitemap.xml', (822272, 6873)
 'render_sources:output\\social_buttons\\index.rst', (119808, 257)
 'render_posts:cache\\pages\\manual.html', (120320, 815)
 'copy_assets:output\\assets\\js\\fancydates.js', (121344, 451)
@@ -290,3 +290,4 @@
 'copy_files:output\\PXL_20260309_154523226.MP.jpg', (836608, 285)
 'copy_files:output\\position_sfspython.png', (837120, 269)
 'copy_files:output\\position_battracker.png', (837632, 270)
+'copy_files:output\\cora_riccardo.jpeg', (838144, 261)

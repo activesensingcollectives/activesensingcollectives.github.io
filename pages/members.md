@@ -35,6 +35,8 @@ frithjof.kuester [at] uni-konstanz.de
 Computational modelling of echolocating bat groups. 
 aditya.moger [at] uni-konstanz.de
 
+<img src="../cora_riccardo.jpeg" width="11%">
+
 Riccardo Cora: Masters thesis (Music & Acoustic Engineering, Politecnico Milano)
 <br/>
 Swarm robotics of echolocating RoBAT agents
