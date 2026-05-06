@@ -17,29 +17,41 @@ thejasvi.beleyur [at] uni-konstanz.de
 ## Doctoral candidates
 
 <img src="../alberto_doimo_2.jpg" width="11%">
-Alberto Doimo, PhD candidate
+Alberto Doimo
 <br/>
 Swarm robotics investigation of acoustic collectives. 
 alberto.doimo [at] uni-konstanz.de
 
 <img src="../kuester.jpeg" width="11%">
-Frithjof Küster, PhD candidate
+Frithjof Küster
 <br/>
 Multi-sensor characterisation of echolocating bat swarms.
 frithjof.kuester [at] uni-konstanz.de
 
-### Masters students
-<img src="../1000060786.jpg" width="11%">
+## Research assistants
 
+<img src="../1000060786.jpg" width="11%">
+Aditya Moger
 <br/>
 Computational modelling of echolocating bat groups. 
 aditya.moger [at] uni-konstanz.de
 
-<img src="../cora_riccardo.jpeg" width="11%">
+### Masters students
 
-Riccardo Cora: Masters thesis (Music & Acoustic Engineering, Politecnico Milano)
+<img src="../cora_riccardo.jpeg" width="11%">
+Riccardo Cora
 <br/>
-Swarm robotics of echolocating RoBAT agents
+Swarm robotics of echolocating RoBAT agents.
+Masters thesis (Music & Acoustic Engineering, Politecnico Milano)
+<br/>
+
+
+<img src="../baldini.jpeg" width="11%">
+Giovanni Baldini
+<br/>
+Developing a real-time bat tracking system.
+Masters thesis (Music & Acoustic Engineering, Politecnico Milano)
+<br/>
 
 ### Do you want to join the lab?
 We are looking for Masters thesis candidates - see [openings here](/openings/)
