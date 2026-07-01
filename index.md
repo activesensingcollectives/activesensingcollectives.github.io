@@ -27,12 +27,12 @@ We are an interdisciplinary research group working at the interface of sensory b
 
 ## Rolling Updates
 
-* 1 May 2026 : We welcome Giovanni to the ASC! As part of this Masters thesis Giovanni will be working on developing a real-time bat-tracker that will visualise and localise bat-calls in the field for an intuitive understanding of how bats echolocate in nature.
+* 2 July 2026: Thejasvi is awarded the Messmer Stiftungs Preis. The project will build a real-time bat tracker - that allows an intuitive in-situ understanding of bat behaviour as it happens in the dark! Link to the video coming soon. (Project cofinanced by the Carl-Zeiss-Stiftung & Messmer Stiftung).
 
-* 24 Mar 2026 : Master thesis opening! - Check out our [openings](/openings/).
+* 1 July 2026 : Welcome Sebastian to the ASC, and welcome back Aditya! Sebastian will be implementing and testing microphone self-positioning workflows. Aditya will continue building on the modelling work he started during his Masters thesis. 
+
+* 1 May 2026 : We welcome Giovanni to the ASC! As part of this Masters thesis Giovanni will be working on developing a real-time bat-tracker that will visualise and localise bat-calls in the field for an intuitive understanding of how bats echolocate in nature.
 
 * 16 Feb 2026 : Welcome Riccardo to the ASC lab. Riccardo will be doing his Masters thesis with us and finally doing swarm robotics of with our echolocating 'RoBAT' robot platform!
 
 * 30 Jan 2026 : The AcSeCo lab's swarm robotics work will be featured at [ANTS 2026](https://ants2026.org/) - the international conference for swarm intelligence.
-
-* 15 Sept 2025 : Welcome to Konstanz Frithjof! Frithjof is the lab's first PhD student, and the PhD is centred around the multi-sensor study of echolocating bats in the field.  
